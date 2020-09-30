@@ -1,11 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
 h1 {
-    color: purple;
-  }
-  
-  button {
-    border: 20px solid #34495e;
-    background-color: pink;
-    color: white;
-  }
+    font-family: 'Caveat', cursive;
+    font-size: 40pt;
+}
+
+body {
+    background-color: salmon;
+}
+
+ul {
+  font-family: 'Caveat', cursive;
+  font-size: 30px;
+  padding-bottom: 15%;
+}
+
+button {
+  margin: 30px auto 0;
+  padding: 20px 25px;
+  background-color: #F69680;
+  color: #2E1263;
+  font-family: 'Caveat', cursive;;
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid #2E1263;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 4px;
+  outline: none;
+}
+
+button:hover {
+  transition: 0.3s;
+  background-color: #2E1263;
+  color: #F69680;
+  text-decoration: underline;
+}
+
   
   
