@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 h1 {
-    font-family: 'Caveat', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 40pt;
 }
 
@@ -12,7 +13,7 @@ body {
 ul {
   font-family: 'Caveat', cursive;
   font-size: 30px;
-  padding-bottom: 15%;
+  padding-bottom: 25%;
 }
 
 button {
@@ -31,7 +32,7 @@ button {
 }
 
 button:hover {
-  transition: 0.3s;
+  transition: 0.8s;
   background-color: #2E1263;
   color: #F69680;
   text-decoration: underline;
